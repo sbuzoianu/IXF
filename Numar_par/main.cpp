@@ -5,11 +5,12 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Hello world!" << endl;
+
     n=9;
+    //n=n/0;
     if(n%2==0)
         cout<<"DA";
     else
         cout<<"NU";
-    return 0;
+    return 256;
 }
