@@ -5,9 +5,9 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Hello world!" << endl;
-    n=9;
-    if(n%2==0)
+    cout<<"n=";
+    cin>>n;
+     if(n%2==0)
         cout<<"DA";
     else
         cout<<"NU";
