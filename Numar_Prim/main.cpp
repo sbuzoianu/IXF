@@ -5,7 +5,9 @@ using namespace std;
 int main()
 {
     int n,i,nr=0;
-    n=18;
+    //n=17;
+    cin >> n;
+
 
     for (i=1; i<=n; i++)
 
